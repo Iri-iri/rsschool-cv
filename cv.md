@@ -161,3 +161,9 @@ You can inquire about my projects on my [github profile](https://github.com/Iri-
 
 2006-2011. Belarusian National Technical University. Power plant construction and engineering services faculty (Minsk).
 
+## LANGUAGES
+***
+
+English (B2)
+
+
