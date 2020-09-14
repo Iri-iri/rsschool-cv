@@ -147,4 +147,17 @@ Code example simple todoList:
       }
     });
 
+## EXPERIENCE
+***
+
++ June 2020 - present time: **coding school TeachMeSkills**
++ July 2020: free training **GoIT**
++ July 2020: free training **ANDERSEN**
+
+You can inquire about my projects on my [github profile](https://github.com/Iri-iri) !
+
+## EDUCATION
+***
+
+2006-2011. Belarusian National Technical University. Power plant construction and engineering services faculty (Minsk).
 
